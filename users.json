@@ -1,0 +1,70 @@
+{
+  "tash": {
+    "password": "14789",
+    "full_name": "Bhavakkanavar",
+    "email": "kalabhavakkanavar@gmail.com",
+    "phone": "84319 73590",
+    "city": "",
+    "joined": "23 Apr 2026"
+  },
+  "naaz12": {
+    "password": "123456",
+    "full_name": "Naaz ani",
+    "email": "naazz@gmail.com",
+    "phone": "84319 73590",
+    "city": "dharwad",
+    "joined": "23 Apr 2026"
+  },
+  "shreya": {
+    "password": "36987",
+    "full_name": "Shreya Simon",
+    "email": "shreyasimon03@gmail.com",
+    "phone": "32545989",
+    "city": "dharwad",
+    "joined": "27 Apr 2026"
+  },
+  "naaz": {
+    "password": "naaz123",
+    "full_name": "naaz",
+    "email": "naaz@gmail.com",
+    "phone": "7996221193",
+    "city": "dharwad",
+    "joined": "27 Apr 2026"
+  },
+  "admin": {
+    "password": "admin123",
+    "full_name": "Administrator",
+    "email": "admin@luxuryrentals.com",
+    "phone": "",
+    "city": "",
+    "joined": "27 Apr 2026",
+    "role": "admin"
+  },
+  "naaz ani": {
+    "password": "98765",
+    "full_name": "naaz ani",
+    "email": "naaz@gmail.com",
+    "phone": "9807654321",
+    "city": "dharwad",
+    "joined": "02 May 2026",
+    "role": "customer"
+  },
+  "mubeen": {
+    "password": "14789",
+    "full_name": "mubeentaj mirji",
+    "email": "mubeen@gmail.com",
+    "phone": "9876543210",
+    "city": "dharwad",
+    "joined": "06 May 2026",
+    "role": "customer"
+  },
+  "mubeentaj99": {
+    "password": "14789",
+    "full_name": "mubeentaj mirji",
+    "email": "mubeentajmirji0@gmail.com",
+    "phone": "9148645173",
+    "city": "dharwad",
+    "joined": "23 May 2026",
+    "role": "customer"
+  }
+}
